@@ -1,7 +1,4 @@
 # Scattered-File-Sorter
-Certainly! Here's a basic README for your scattered file sorter:
-
----
 
 # Scattered File Sorter for Data Analysts
 
